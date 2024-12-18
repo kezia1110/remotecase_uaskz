@@ -41,7 +41,7 @@
     <div class="container">
         <?php
         echo "<h1>Hello, World!!!</h1>";
-        echo "<p>Welcome to the world of PHP programming. This is a simple example to demonstrate how PHP can generate dynamic content.</p>";
+        echo "<p>Selamat datang di web ini</p>";
         ?>
         <div class="footer">
             <?php
